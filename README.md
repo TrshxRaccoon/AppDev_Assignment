@@ -32,7 +32,7 @@ Each assignment is simple and focused on one feature.
 
 ---
 
-### Bonus
+### ✨ Bonus
 - Combine **Assignment 2 (input)** and **Assignment 3 (list)**:  
   Let the user add new items to a list by typing in the `TextField`.
 
