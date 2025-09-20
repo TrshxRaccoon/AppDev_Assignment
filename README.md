@@ -4,6 +4,9 @@
 Practice basic Flutter concepts by building small widgets and apps.  
 Each assignment is simple and focused on one feature.
 
+## 📚 Resourceas
+Follow this for instructions on how to setup flutter and other useful resources: https://github.com/Devsoc-BPGC/modules/blob/main/APPDEV.md
+
 ---
 
 ### Assignment 1: Hello World App
