@@ -1,22 +1,39 @@
-# AppDev Assignment
+# Flutter Assignments
 
-# Flutter Task: Basic Input and Display
-
-## Objective
-Create a Flutter app that takes input from a user via a text field and displays it on the screen (in either an alert box, a snack bar, or within the app body itself) when a button is pressed.
+## 🎯 Objective
+Practice basic Flutter concepts by building small widgets and apps.  
+Each assignment is simple and focused on one feature.
 
 ---
 
-## To create a new Flutter project:
-   ```bash
-   flutter create flutter_demo
-  ```
-## Alternatively:
+### Assignment 1: Hello World App
+- Create a Flutter app that shows **"Hello World"** in at the top and centre of the screen.
+- Hint: Use `Scaffold`, `AppBar`, and `Center`.
 
-1. Open Visual Studio Code.  
-2. Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (macOS) to open the Command Palette.  
-3. Type `Flutter: New Project` and select it.  
-4. Choose the project type (use **Flutter Application** for now).  
-5. Enter the project name.  
-6. Select the folder where you want to create the project.  
-7. Wait for VS Code to create the project and fetch dependencies.
+---
+
+### Assignment 2: Text Input & Display
+- Add a `TextField` where the user types input.
+- Add a button that, when pressed, shows the typed text on the screen.
+- Hint: Use a `TextEditingController`.
+
+---
+
+### Assignment 3: Simple ListView
+- Show a scrollable list of items (e.g., fruits).
+- Each item should be in a `Card` with padding.
+
+---
+
+### Assignment 4: Navigation
+- Create two screens.
+- Add a button on the first screen that navigates to the second screen.
+- Hint: Use `Navigator.push`.
+
+---
+
+### Bonus
+- Combine **Assignment 2 (input)** and **Assignment 3 (list)**:  
+  Let the user add new items to a list by typing in the `TextField`.
+
+---
